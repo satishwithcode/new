@@ -1,0 +1,21 @@
+     
+.service-section .img-card{
+    flex: 0 0 33.33%;
+    width: 33.33%;
+    display:flex;
+    border-radius: .5rem;
+  }
+  .service-section .img-card-inner{
+    border-radius: .5rem;
+    padding: 1rem;
+  }
+  .service-section .img-card-inner img{
+    padding: .5rem;
+    border-radius: .5rem;
+  }
+  .service-section .img-card-inner .img-resize{
+    height: 25rem;
+    width: 32rem;
+    object-fit: cover;
+    object-position: center center;
+  }

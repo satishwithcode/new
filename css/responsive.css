@@ -1,0 +1,803 @@
+
+@media(max-width:1100px){
+  .header .hamburger-btn{
+    right:2%;
+    top: 4%;
+  }  
+  
+  .team-popup .close-popup-menu{
+    right: 9%;
+    top: 6%;
+  }
+}
+@media(max-width:1024px){
+  .container{
+    max-width: 100rem;
+  }
+  .header{
+    padding:0;
+    top: 2.5rem;
+    left: 1rem;
+  }
+  .nav-menu .close-nav-menu{
+    top: 4%;
+    right: 7%;
+  }
+  .about-section .about-img .img-box img{
+    height: 50vh;
+  }
+  .about-section .about-img{
+    flex: 0 0 45%;
+    max-width: 45%;
+    padding: .5rem;
+  }
+  .about-section .about-info{
+    flex: 0 0 49%;
+    max-width: 49%;
+    padding: .5rem
+  }
+  .about-section .about-img{
+    padding: 1rem;
+    height: 70vh;
+  }
+  .about-section .about-img .img-box img{
+    height: 70vh;
+  }
+  .about-section .timeline .timeline-item-inner .icon{
+    transform: translateY(5rem);
+    top: -.7rem;
+  }
+  .about-section .timeline{
+    flex: 0 0 100%;
+    max-width: 98%;
+    padding: 1rem;
+  }
+  .team-section .card-item{
+    padding: 1rem 1rem;
+  }
+  .team-popup .close-popup-menu{
+    right: 9%;
+    top: 6%;
+  }
+  .team-popup .tp-img .check-about-img .social-icon a{
+    margin-left: 0;
+  }
+  .contact-section .w-50{
+    flex: 0 0 50%;
+    min-width: 50%;
+  }
+}
+@media(max-width:901px){
+  .header{
+    padding:0;
+    top: 2.5rem;
+    left: 1rem;
+  }
+  .about-section .about-img{
+    height: 60vh;
+  }
+  .about-section .about-img .img-box img{
+    height: 60vh;
+  }
+  .service-section .service-item{
+    flex: 0 0 50%;
+    width: 50%;
+  }
+
+  .team-popup .close-popup-menu{
+    right: 9%;
+    top: 6%;
+  }
+  .team-popup .description{
+    flex: 0 0 70%;
+    max-width: 70%;
+  }
+  .team-popup .info{
+    flex: 0 0 20%;
+    max-width: 20%;
+  }
+  .team-popup .tp-img .check-about-img .img-box{
+    padding: .7rem;
+  }
+  .team-popup .tp-img .check-about-img .img-box img{
+    max-width: 96%;
+  }
+  .team-popup .tp-img .check-about-img .social-icon a{
+    margin-left: 1rem;
+  }
+  .contact-section .contact-item-inner{
+    padding: 3rem 1.5rem;
+    margin: .5rem;
+  }
+}
+@media(max-width:815px){
+  .header .hamburger-btn{
+    top: 4%;
+    right: 2.5%;
+  }
+  
+}
+@media(max-width:768px){
+  .header{
+    padding:0;
+    top: 2rem;
+    left: 1rem;
+  }
+  .header .hamburger-btn{
+    top: 4%;
+    right: 2.75%;
+  }
+  .header .logo .krishna-img{
+    width: 7rem;
+    height: 7rem;
+    opacity: .8;
+  }
+  .nav-menu .close-nav-menu{
+    top: 4%;
+    right: 8%;
+  }
+  .header .logo .krishna-img{
+    width: 7rem;
+    height: 7rem;
+  }
+  .header-section .home-text p{
+    font-size: 3.2rem;
+    top: 54%;
+  }
+  .header-section .home-text h2{
+    font-size: 7.5rem;
+    top: 63%;
+  }
+  .header-section .home-text strong{
+    font-size: 3.1rem;
+    top: 76%;
+  }
+  .effect-1{
+    bottom: 3%;
+    right: 41%;
+  }
+  .effect-2{
+      bottom: 15%;
+  }
+  .effect-3{
+      height: 11rem;
+      width:11rem;
+      left: 45%;
+  }
+  .effect-4{
+      left: 18%;
+      top: 28%;
+  }
+  .effect-5{
+    right: 5%;
+    top: 28%;
+  }
+  .about-section .skills .skill-item{
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .about-section .about-img{
+    flex: 0 0 100%;
+    max-width: 98.5%;
+    padding: .5rem;
+    height: 100vh;
+  }
+  .about-section .about-img .img-box img{
+    height: 100vh;
+  }
+  .about-section .about-info{
+    flex: 0 0 98%;
+    max-width: 98%;
+    padding:4rem .5rem;
+  }
+  .service-section .service-item{
+    flex: 0 0 100%;
+    width: 100%;
+  }
+  .about-section .timeline .timeline-item-inner .icon{
+    top: -4.7rem;
+    right: 1rem;
+  }
+  .about-section .timeline .timeline-item{
+    padding: 0 1rem;
+  }
+  .about-section .timeline .timeline-item-inner span{
+    padding: 1rem 4rem 1rem;
+  }
+  .service-section .service-item-inner{
+    flex: 0 0 100%;
+    max-width: 98%;
+    padding: 5rem 0 5rem;
+    margin: .8rem .7rem;
+  }  
+  
+  .team-popup .close-popup-menu{
+    right: 9%;
+    top: 6%;
+  }
+  .team-popup .info{
+    margin-top: 3rem;
+  }
+  .team-popup .tp-main{
+    max-width: 110rem;
+    width: 80%;
+  }
+  .team-popup .tp-img{
+    display: block;
+  }
+  .team-popup .description,
+  .team-popup .info{
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .team-popup .tp-img .check-about-img{
+    padding: 2rem;
+  }
+  .team-popup .tp-img .check-about-img .img-box{
+    padding: 1.3rem;
+  }
+  .team-popup .tp-img .check-about-img .img-box img{
+    max-width: 110%;
+    height: 90vh;
+  }
+  .team-popup .tp-img .check-about-img .social-icon{
+    margin-right: 1.8rem;
+  }
+  .team-popup .tp-img .check-about-info{
+    max-width: 100%;
+    padding: 1rem;
+    margin-top: 2rem;
+  }
+  .contact-section .contact-item{
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .contact-section .w-50{
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .about-section .timeline{
+    padding: 0;
+  }
+}
+@media(max-width:587px){
+  .header{
+    padding:0;
+    top: 2.5rem;
+    left: 1rem;
+  }
+  .nav-menu .close-nav-menu{
+    top: 4%;
+    right: 8%;
+  }
+  
+  .team-popup .tp-img .check-about-img{
+    padding: 1rem;
+  }
+  .team-popup .tp-img .check-about-img .img-box{
+    padding: 1rem;
+  }
+  .team-popup .tp-img .check-about-img .img-box img{
+    max-width: 97%;
+    height: 65vh;
+  }
+  .contact-section .w-50{
+    flex: 0 0 99%;
+    max-width: 99%;
+  }
+  footer{
+    flex:  0 0 99%;
+    max-width: 98%;
+  }
+  footer .footer-text h1{
+    font-size: 6rem;
+    padding:.5rem 0;
+  }
+  footer .footer-text p{
+    padding: .5rem 0;
+  }
+  footer .social-link{
+    padding:0 .5rem;
+  }
+  footer .copy p{
+    font-size: 1.85rem;
+  }
+  .about-section .about-img{
+    flex: 0 0 100%;
+    max-width: 98%;
+}
+@media(max-width:512px){
+  .header .hamburger-btn{
+    top: 4%;
+    right: 4%;
+  }
+  .nav-menu .close-nav-menu{
+    top: 4%;
+    right: 8%;
+  }
+  
+}
+@media(max-width:480px){
+  #Home{
+    background-image: url(../img/sunset-425px.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;
+  }
+  .header{
+    padding:0;
+    top: 2.5rem;
+    left: 1rem;
+  }
+  .nav-menu .close-nav-menu{
+    top: 4%;
+    right: 8%;
+  }
+  
+  .service-section .service-item-inner{
+    flex: 0 0 100%;
+    max-width: 97%;
+  }
+  .about-section .about-info{
+    flex: 0 0 98%;
+    max-width: 97%;
+  }
+    
+}
+@media(max-width:451px){
+  #Home{
+    width: 100%;
+    height:87vh;
+    background: url("../img/sunset-425px.jpeg") top right no-repeat;
+    background-size: 100% 87vh;
+    position: relative;
+    opacity:.8;
+  }
+  .header{
+    padding:0;
+    top: 2rem;
+    left: .5rem;
+  }
+  .header .hamburger-btn{
+    top: 4%;
+    right: 4.5%;
+  }
+  .nav-menu{
+    transition: all 0.9s ease;
+    transform: translateY(100%);
+  }
+  .nav-menu.open{
+    transform: translateY(0%);
+  }
+  .nav-menu .close-nav-menu{
+    top: 4%;
+    right: 10.5%;
+  }
+  .nav-menu ul li a{
+    font-size: 2rem;
+  }
+  .section-title h3{
+    font-size: 2.5rem;
+  }
+  .section-title h3:before{
+    font-size: 1.3rem;
+  }
+  .header-section .home-text p{
+    top: 62%;
+  }
+  .header-section .home-text h2{
+    font-size: 5.9rem;
+    top: 69.5%;
+  }
+  .header-section .home-text strong{
+    top: 77.5%;
+    font-size:3rem;
+  }
+  .effect-4{
+    left: 17%;
+    top: 40%;
+  }
+  .effect-5{
+    right: 12%;
+  }
+  .social-links{
+    right: 0;
+  }
+  .social-links a{
+    font-size: 3rem;
+  }
+  .about-section .about-img{
+    height: 58vh;
+  }
+  .about-section .about-img .img-box img{
+    height: 58vh;
+  }
+  .about-section .about-tabs{
+    padding: 8rem 0 4rem;
+  }
+  .about-section .skills .skill-item{
+    margin-bottom: 2.5rem;
+  }
+  .about-section .timeline .timeline-item-inner span{
+    margin: 0 0 .1rem;
+  }
+  .about-section .timeline .timeline-item-inner h3{
+    font-size: 1.8rem;
+    margin: 0 0 .2rem;
+   }
+  .about-section .timeline .timeline-item-inner h4{
+    font-size: 1.5rem;
+   }
+  .about-section .timeline .timeline-item-inner p{
+    font-size: 1.5rem;
+    margin: 1rem 0 0;
+   }
+  
+  .team-popup .close-popup-menu{
+    right: 5%;
+    top: 6%;
+  }
+  .team-popup .info{
+    margin-top: 3rem;
+  }
+  .team-popup .tp-main{
+    max-width: 130rem;
+    width: 85%;
+  }
+  .team-popup .tp-img{
+    display: block;
+  }
+  .team-popup .description,
+  .team-popup .info{
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .team-popup .tp-img .check-about-img .img-box{
+    padding: .8rem;
+  }
+  .team-popup .tp-img .check-about-img .img-box img{
+    max-width: 96.5%;
+    height: 48vh;
+  }
+  .team-popup .tp-img .check-about-img .social-icon{
+    margin-right: 1.8rem;
+  }
+  .team-popup .tp-img .check-about-info{
+    max-width: 100%;
+    padding: .5rem;
+    margin-top: 2rem;
+  }
+  .team-popup .tp-prev{
+    left: .5rem;
+  }
+  .team-popup .tp-next{
+    right: .5rem;
+  }
+  
+  .contact-section .contact-item{
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .contact-section .w-50{
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .contact-section .input-group .input-control{
+    width: 93%;
+  }
+  .contact-section .input-group{
+    margin:2rem 1rem;
+  }
+  .contact-section .input-group textarea.input-control{
+    padding-top: 1.5rem;
+  }
+    
+}
+@media(max-width:427px){
+  #Home{
+    width: 100%;
+    height: 85vh;
+    background: url("../img/sunset-425px.jpeg") top right no-repeat;
+    background-size: 100% 85vh;
+    position: relative;
+  }
+  .header{
+    padding:0;
+    top: 2rem;
+    left: .5rem;
+  }
+  .header .hamburger-btn{
+    top: 4%;
+    right: 5%;
+  }
+  .header .logo .krishna-img{
+    width: 6rem;
+    height: 6rem;
+    opacity: .8;
+  }
+  .nav-menu .close-nav-menu{
+    top: 4%;
+    right: 12%;
+  }
+   .section-title h3{
+    font-size: 2rem;
+  }
+  .section-title h3:before{
+    font-size: 1rem;
+  }
+  .header-section .home-text p{
+    top: 60%;
+  }
+  .header-section .home-text h2{
+    font-size: 5.4rem;
+    top: 67.5%;
+  }
+  .header-section .home-text strong{
+    top: 76%;
+    font-size:3rem;
+  }
+  .effect-1{
+    bottom: .80%;
+  }
+  .effect-4{
+    left: 17%;
+    top: 40%;
+  }
+  .effect-5{
+    right: 15%;
+    top: 28%;
+  }
+  .social-links{
+    right: 0;
+  }
+  .social-links a{
+    font-size: 3rem;
+  }
+  .about-section .about-img{
+    flex: 0 0 100%;
+    max-width: 97.5%;
+    padding: .5rem;
+    height: 60vh;
+  }
+  .about-section .about-img .img-box img{
+    height: 60vh;
+  }
+  .about-section .about-tabs{
+    padding: 8rem 0 4rem;
+  }
+  .about-section .skills .skill-item{
+    margin-bottom: 2.5rem;
+  }
+  .about-section .timeline .timeline-item{
+    flex: 0 0 100%;
+    max-width: 95%;
+  }
+  
+  .team-popup .close-popup-menu{
+    right: 5%;
+    top: 6%;
+  }
+  .team-popup .info{
+    margin-top: 3rem;
+  }
+  .team-popup .tp-main{
+    max-width: 130rem;
+    width: 85%;
+  }
+  .team-popup .tp-img{
+    display: block;
+  }
+  .team-popup .description,
+  .team-popup .info{
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .team-popup .tp-img .check-about-img .img-box{
+    padding: .7rem;
+  }
+  .team-popup .tp-img .check-about-img .img-box img{
+    max-width: 96.4%;
+    height: 50vh;
+  }
+  .team-popup .tp-img .check-about-img .social-icon{
+    margin-right: 1.8rem;
+  }
+  .team-popup .tp-img .check-about-info{
+    max-width: 100%;
+    padding: .5rem;
+    margin-top: 2rem;
+  }
+  .team-popup .tp-prev{
+    left: .5rem;
+  }
+  .team-popup .tp-next{
+    right: .5rem;
+  }
+  
+  .contact-section .contact-item{
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .contact-section .w-50{
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .contact-section .input-group .input-control{
+    width: 90%;
+  }
+  .contact-section .input-group{
+    margin:2rem 1rem;
+  }
+  .contact-section .input-group textarea.input-control{
+    padding-top: 1.5rem;
+  }
+  footer{
+    flex:  0 0 100%;
+    max-width: 100%;
+  }
+  footer .footer-text h1{
+    font-size: 6rem;
+    padding:.5rem 0;
+  }
+  footer .footer-text p{
+    padding: .5rem 0;
+  }
+  footer .social-link{
+    padding:0 .5rem;
+  }
+  footer .copy p{
+    font-size: 1.85rem;
+  }
+    
+}
+@media(max-width:390px){
+  .effect-3{
+    left: 40%;
+  }
+  
+  .team-popup .tp-img .check-about-img .img-box img{
+    height: 40vh;
+  }
+  .team-popup .tp-img .check-about-img .social-icon a{
+    margin-left: 1rem;
+  }
+  .team-popup .tp-img .check-about-info .btn-1{
+    margin: 2rem 2rem 0 0; 
+  }
+}
+@media(max-width:377px){
+  .header .hamburger-btn{
+    top: 4%;
+    right: 5.5%;
+  }
+  .style-switcher{
+    width: 10rem;
+  }
+  .effect-3{
+    left: 40%;
+  }
+  .about-section .about-tabs{
+    padding: 8rem 0 3rem;
+  }
+  .about-section .about-tabs .tab-item{
+    padding: .5rem .5rem;
+  }
+  .about-section .about-img{
+    height: 50vh;
+  }
+  .about-section .about-img .img-box img{
+    height: 50vh;
+  }
+  
+  .team-popup .tp-img .check-about-img .img-box img{
+    height: 40vh;
+  }
+  .team-popup .tp-img .check-about-img .social-icon a{
+    margin-left: 1rem;
+  }
+  .team-popup .tp-img .check-about-info .btn-1{
+    margin: 2rem 2rem 0 0; 
+  }
+  footer .footer-text h1{
+    font-size: 5rem;
+    padding:.5rem 0;
+  }
+  footer .footer-text p{
+    font-size: 1.5rem;
+    padding: .5rem 0;
+  }
+  footer .social-link{
+    padding:0 .5rem;
+  }
+  footer .copy p{
+    font-size: 1.6rem;
+  }
+}
+@media(max-width:320px){
+  #Home{
+    width: 100%;
+    height:65vh;
+    background: url("../img/sunset-425px.jpeg") top right no-repeat;
+    background-size: 100% 65vh;
+    position: relative;
+  }
+  .header{
+    padding:0;
+    top: 2rem;
+    left: .5rem;
+  }
+  .header .hamburger-btn{
+    top: 4%;
+    right: 6.5%;
+  }
+  .header .logo .krishna-img{
+    width: 5rem;
+    height: 5rem;
+    opacity: .8;
+  }
+  .header-section .home-text p{
+    top: 57%;
+    font-size: 2.5rem;
+  }
+  .header-section .home-text h2{
+    font-size: 4.3rem;
+    top: 64.5%;
+  }
+  .header-section .home-text strong{
+    top: 74.5%;
+    font-size:2.5rem;
+  }
+  .effect-1{
+    width: 2rem;
+    height: 2rem;
+  }
+  .effect-3{
+    left: 25%;
+    height: 9rem;
+    width:9rem;
+    border: 2rem solid var(--skin-color);
+    top: -9rem;
+  }
+  .effect-5{
+    height: 4rem;
+    width: 4rem;
+    right: 20%;
+  }
+  .social-links a{
+    margin: 0 .1rem;
+  }
+  .about-section .about-img{
+    height: 50vh;
+  }
+  .about-section .about-img .img-box img{
+    height: 50vh;
+  }
+  
+  .team-popup .tp-img .check-about-img .img-box img{
+    width: 95.5%;
+    height: 35vh;
+  }
+
+  footer{
+    flex:  0 0 100%;
+    max-width: 100%;
+  }
+  footer .footer-text h1{
+    font-size: 4rem;
+    padding: 0;
+  }
+  footer .footer-text p{
+    font-size: 1.5rem;
+    padding: 0;
+  }
+  footer .social-link{
+    padding:0;
+    margin-top: 1rem;
+  }
+  footer .social-link a{
+    font-size: 2rem;
+    padding: .2rem;
+  }
+  footer .copy p{
+    font-size: 1.5rem;
+ }
+}

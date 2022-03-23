@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+  <style>
+      :root{
+        --outer-shadow: 3px 3px 3px #d0d0d0, -3px -3px 3px #f8f8f8;
+      }  
+          .container{
+           max-width: 900px;
+           margin: auto;
+           height: auto;
+       }
+       .container .text{
+           position: absolute;
+           bottom: 20%;
+           left: 30%;
+           max-width: 100%;
+           text-align: center;
+           align-items: center;
+           justify-content: center;
+       }
+       .container .text h1{
+           color: #000000;
+           font-size: 64px;
+           font-weight: 900;
+           line-height: 64px;
+       }
+       .container .text p{
+           color:#555555;
+           font-size: 32px;
+
+        }
+        
+       .container .icon{
+           padding: 20px;
+           display: flex;
+           top: 7%;
+           left: 13%;
+           position: absolute;
+       }
+       .container .icon img{
+           width: 70px;
+           height: 100px;
+       }
+       .container .icon .p1:after{
+           content: '';
+           position:absolute;
+           top: 80%;
+           left: 10%;
+           width: 5%;
+           height: 5%;
+           border-radius: 50%;
+           background-color:#555555;
+       }
+       .container .icon .p2:after{
+           content: '';
+           position:absolute;
+           top: 75%;
+           left: 70%;
+           width: 6%;
+           height: 2%;
+           background-color:#555555;
+       }
+       .container .icon .p3:after{
+           content: '';
+           position:absolute;
+           top: 79%;
+           left: 86%;
+           width: 15%;
+           height: 1.5%;
+           background-color:#555555;
+       }
+  
+       .container .header{
+           width: 100%;
+           position: absolute;
+           top: 15%;
+           left: 15%;
+       }
+       .container .header img{
+           width: 800px;
+           height: 800px;
+       }
+       .outer-shadow{
+           box-shadow: var(--outer-shadow);
+       }
+       body{
+           color: #eff0f4;
+       }
+       .row{
+           display: flex;
+           flex-wrap: wrap;
+       }
+       .header-section .home-text p{
+  font-size: 3.2rem;
+  font-weight: 300;
+  line-height: 3rem;
+  color: var(--skin-color);
+  top: 53%;
+  right: 3%;
+  position: absolute;
+  text-align: right;
+}
+.header-section .home-text h2{
+  font-size: 8rem;
+  font-weight: 700;
+  color:var(--text-black-900);
+  top: 59%;
+  right: 3%;
+  position: absolute;
+  text-align: right;
+}
+.header-section .home-text strong{
+  font-size: 3.8rem;
+  font-weight: 300;
+  color: var(--text-black-300);
+  top: 71%;
+  right: 3%;
+  position: absolute;
+  text-align: right;
+}
+
+
+  </style>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="icon">
+                <img src="img/images-removebg-preview.png" alt="">
+                <p class="p1"></p>
+                <p class="p2"></p>
+                <p class="p3"></p>
+            </div>
+            <div class="header">
+                <img src="img/download__2_-removebg-preview.png" alt="">
+            </div>
+            <div class="text">
+                <h1>Url not Found</h1>
+                <p>This Site Is Under Maintenance</p>
+                
+            </div>
+        </div>
+        
+    </div>
+    <script>
+        window.print();
+    </script>
+</body>
+</html>
